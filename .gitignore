@@ -1,0 +1,9 @@
+# Ignore binary files
+*.exe
+*.o
+*.so
+
+# Ignore build and cache directories
+/bin/
+/pkg/
+/vendor/
